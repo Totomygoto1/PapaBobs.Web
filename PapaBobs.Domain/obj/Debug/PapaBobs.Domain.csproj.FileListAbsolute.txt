@@ -1,0 +1,14 @@
+c:\Users\YH\source\repos\PapaBobs.Web\PapaBobs.Domain\obj\Debug\PapaBobs.Domain.csproj.CoreCompileInputs.cache
+c:\Users\YH\source\repos\PapaBobs.Web\PapaBobs.Domain\bin\Debug\PapaBobs.Domain.dll
+c:\Users\YH\source\repos\PapaBobs.Web\PapaBobs.Domain\bin\Debug\PapaBobs.Domain.pdb
+c:\Users\YH\source\repos\PapaBobs.Web\PapaBobs.Domain\bin\Debug\PapaBobs.DTO.dll
+c:\Users\YH\source\repos\PapaBobs.Web\PapaBobs.Domain\bin\Debug\PapaBobs.Persistence.dll
+c:\Users\YH\source\repos\PapaBobs.Web\PapaBobs.Domain\bin\Debug\EntityFramework.dll
+c:\Users\YH\source\repos\PapaBobs.Web\PapaBobs.Domain\bin\Debug\PapaBobs.DTO.pdb
+c:\Users\YH\source\repos\PapaBobs.Web\PapaBobs.Domain\bin\Debug\PapaBobs.Persistence.pdb
+c:\Users\YH\source\repos\PapaBobs.Web\PapaBobs.Domain\bin\Debug\PapaBobs.Persistence.dll.config
+c:\Users\YH\source\repos\PapaBobs.Web\PapaBobs.Domain\bin\Debug\EntityFramework.xml
+c:\Users\YH\source\repos\PapaBobs.Web\PapaBobs.Domain\obj\Debug\PapaBobs.Domain.csproj.CopyComplete
+c:\Users\YH\source\repos\PapaBobs.Web\PapaBobs.Domain\obj\Debug\PapaBobs.Domain.dll
+c:\Users\YH\source\repos\PapaBobs.Web\PapaBobs.Domain\obj\Debug\PapaBobs.Domain.pdb
+C:\Users\YH\source\repos\PapaBobs.Web\PapaBobs.Domain\obj\Debug\PapaBobs.Domain.csprojAssemblyReference.cache
