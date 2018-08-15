@@ -13,18 +13,7 @@ namespace PapaBobs.Persistence
         {
             var db = new PapaBobsDbEntities();
             var order = convertToEntity(orderDTO);
-            /*
-            order.OrderId = Guid.NewGuid();
-            order.Size = 1;
-            order.Crust = 0;
-            order.Pepperoni = true;
-            order.Name = "Test";
-            order.Address = "Street";
-            order.ZipCode = "12345";
-            order.Phone = "555-55555";
-            order.PaymentType = 0;
-            order.TotalCost = 16.50M;
-            */
+
             db.Orders.Add(order);
             db.SaveChanges();
         }
