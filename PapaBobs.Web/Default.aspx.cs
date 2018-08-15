@@ -53,7 +53,6 @@ namespace PapaBobs.Web
 
         protected void orderButton_Click(object sender, EventArgs e)
         {
-            // Domain.OrderManager.CreateOrder();
 
             if(!textBoxDataIsValid())
             {
@@ -63,8 +62,7 @@ namespace PapaBobs.Web
             PapaBobs.DTO.OrderDTO orderDTO = new DTO.OrderDTO();
 
             orderDTO.OrderId = Guid.NewGuid();
-            //orderDTO.Size = PapaBobs.DTO.Enums.SizeType.Large;
-            //orderDTO.Crust = PapaBobs.DTO.Enums.CrustType.Thick;
+
             orderDTO.Size = determineSize();
             orderDTO.Crust = determineCrust();
             orderDTO.Sausage = sausageCheckBox.Checked;
@@ -75,7 +73,6 @@ namespace PapaBobs.Web
             orderDTO.Address = addressTextBox.Text;
             orderDTO.ZipCode = zipCodeTextBox.Text;
             orderDTO.Phone = phoneTextBox.Text;
-            //orderDTO.PaymentType = PapaBobs.DTO.Enums.PaymentType.Cash;
             orderDTO.PaymentType = determinePayment();
             orderDTO.TotalCost = 16.50M;
 
